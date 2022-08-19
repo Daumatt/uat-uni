@@ -1,0 +1,62 @@
+body{
+    background-color: white
+}
+
+
+button{
+    margin-top: 30px;
+    background-color: cadetblue;
+    color: antiquewhite;
+    border-radius: 30px;
+    padding: 15px;
+    width: 150px;
+    border: none;
+    box-shadow: 5px 6px;
+    margin: 10px;
+
+}
+button:hover{
+    background-color: darkgoldenrod;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 30px;
+    background-color: cadetblue;
+    color: black;
+    border: none;
+}
+input:hover{
+    background-color: darkgoldenrod;
+}
+p{
+    color: black;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    /* margin: 40px; */
+    background-color: lightsteelblue;
+    margin-top: 150px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* margin-left: 20px; */
+}
+span{
+    color: gray;
+    margin: 20px;
+}
+hr{
+    width: 100%;
+    /* margin-top: 90px; */
+    
+}
+.logo{
+    width: 200px;
+    margin-top: 20px;
+}
